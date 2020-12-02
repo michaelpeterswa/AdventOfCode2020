@@ -1,6 +1,6 @@
 # AdventOfCode2020
 Advent of Code solutions for 2020
-> This is a repository for the Julia solution0
+> This is a repository for the Julia solutions to AoC.
 ## Installation
 ```
 git clone git@github.com:michaelpeterswa/AdventOfCode2020.git
