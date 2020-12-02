@@ -1,0 +1,13 @@
+{
+    "project": [
+        {
+            "author": "Michael Peters",
+            "projectName": "AdventOfCode2020",
+            "version": "1.0.0",
+            "description": "Advent of Code solutions for 2020",
+            "longDescription": "This is a repository for the Julia solution0",
+            "githubLink": "https://github.com/michaelpeterswa/AdventOfCode2020",
+            "date": "12.01.2020"
+        }
+    ]
+}
